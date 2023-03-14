@@ -1,4 +1,5 @@
-![MasterHead](https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67)
+![MasterHead]
+<img src="https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67" alt="MasterHead" style="max-width: 100%;">
 <h1 align="center">Heyy Folks !! Anuranj here</h1>
 <h3 align="center">Am a sophomore pursuing B-tech CSE at SRM IST Ramapuram Chennai. Things related to Tech, Startups and Communities always interests me. Currently Skilled in C++ Programming and an aspiring Web-developer.</h3>
 
