@@ -1,7 +1,7 @@
 
 <img src="https://github.com/AnuranjN/AnuranjN/blob/main/github-banner.jpg" alt="MasterHead" style="max-width: 100%;">
 <h1 align="center">Heyy Everyone, Anuranj here</h1>
-<h3 align="center">Am a pre-final year student pursuing B-tech CSE at SRM IST Ramapuram Chennai. Things related to Tech, Startups and Communities always interests me. Currently Skilled in C++ Programming and an aspiring Web-developer.</h3>
+<h3 align="center">Am a pre-final year student pursuing B-tech CSE at SRM IST Ramapuram Chennai. Things related to Tech, Startups and Communities always interests me. Currently Skilled in C++ Programming and Web Development.</h3>
 
 
 
