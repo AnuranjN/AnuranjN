@@ -10,9 +10,9 @@
   
 
 
-- 🌱 I’m currently learning **C++ and Web Development**
+- 🌱 I’m currently learning **DSA with C++**
 
-- 👯 I’m looking forward to work on **Projects**
+- 👯 I’m looking forward to work on different **Projects**
 <hr>
 <h3 align="left">Connect with me:  <img src = "https://cdn-icons-png.flaticon.com/512/291/291684.png" width = 35px></h3>
 <p align="left">
